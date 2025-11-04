@@ -5,9 +5,10 @@ Welcome to my **Personal Portfolio** — a clean and responsive website showcasi
 
 ---
 
-## 🚀 Live Demo  
-🔗 **Visit here:** ## 🌐 Live Website  
-[👉 Click here to view my Portfolio](https://aryan2712sp.github.io/Personal_Portfolio/)
+## 🌐 Live Website  
+🎯 **Check out my Personal Portfolio:**  
+👉 [Click here to view it live!](https://aryan2712sp.github.io/Personal_Portfolio/)
+
   
 *(Update this link if deployed on GitHub Pages, Netlify, or another platform.)*
 
