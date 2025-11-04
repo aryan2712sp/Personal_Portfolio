@@ -10,7 +10,9 @@ Welcome to my **Personal Portfolio** — a clean and responsive website showcasi
 ---
 
 ## 🚀 Live Demo  
-🔗 **Visit here:** [Your Live Portfolio Link](https://aryan2712sp.github.io/Personal_Portfolio/)  
+🔗 **Visit here:** ## 🌐 Live Website  
+[👉 Click here to view my Portfolio](https://aryan2712sp.github.io/Personal_Portfolio/)
+  
 *(Update this link if deployed on GitHub Pages, Netlify, or another platform.)*
 
 ---
