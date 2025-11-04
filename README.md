@@ -9,9 +9,6 @@ Welcome to my **Personal Portfolio** — a clean and responsive website showcasi
 🎯 **Check out my Personal Portfolio:**  
 👉 [Click here to view it live!](https://aryan2712sp.github.io/Personal_Portfolio/)
 
-  
-*(Update this link if deployed on GitHub Pages, Netlify, or another platform.)*
-
 ---
 
 ## 🧠 About the Project  
