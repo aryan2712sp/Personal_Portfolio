@@ -1,7 +1,4 @@
 
-## 🧾 **Complete `README.md` for Your Personal Portfolio**
-
-````markdown
 # 💼 Personal Portfolio Website
 
 A modern, responsive, and visually appealing personal portfolio website to showcase my **skills, projects, and resume**.  
