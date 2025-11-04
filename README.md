@@ -1,8 +1,4 @@
-Here’s a **professional and modern `README.md`** you can directly upload to your **Personal_Portfolio** repository:
 
----
-
-```markdown
 # 🌐 Personal Portfolio Website
 
 Welcome to my **Personal Portfolio** — a clean and responsive website showcasing my skills, projects, and experience as a developer.
