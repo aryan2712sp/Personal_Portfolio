@@ -79,14 +79,6 @@ Personal_Portfolio/
 
 ---
 
-## 📸 Preview
-
-*(You can add a screenshot or GIF of your portfolio here)*
-Example:
-![Portfolio Preview](assets/images/preview.png)
-
----
-
 ## 🧑‍💻 Author
 
 **Aryan Pardeshi**
