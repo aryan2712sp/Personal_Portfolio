@@ -1,11 +1,3 @@
-* Project overview
-* Features
-* Tech stack
-* Live demo button
-* Setup instructions
-* Contact section
-
----
 
 ## 🧾 **Complete `README.md` for Your Personal Portfolio**
 
